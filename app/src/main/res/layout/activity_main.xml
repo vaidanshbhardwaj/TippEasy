@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginTop="48dp"
+
         android:text="Base"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="@+id/tvTipPercentLabel"
@@ -53,7 +54,7 @@
     <!--Views On The Right Side-->
 
     <SeekBar
-        android:id="@+id/seekbarTip"
+        android:id="@+id/seekBarTip"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:max="30"
@@ -68,7 +69,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintBottom_toBottomOf="@+id/tvTipLabel"
-        app:layout_constraintStart_toStartOf="@+id/seekbarTip"
+        app:layout_constraintStart_toStartOf="@+id/seekBarTip"
         app:layout_constraintTop_toTopOf="@+id/tvTipLabel"
         tools:text="19.96" />
 
