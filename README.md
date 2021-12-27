@@ -24,13 +24,15 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](TippEasy demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+1.Learned about how the seekbar works.
+2.How to change theme of the app
+3.Utilized the inbuilt ArgbEvaluator
 
 ## License
 
