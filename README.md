@@ -24,7 +24,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](TippEasy demo.gif)
+![alt-text](https://github.com/vaidanshbhardwaj/TippEasy/blob/d2601af7893d1bc174ffd36f06a038fbf5615e45/TippEasy%20demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
